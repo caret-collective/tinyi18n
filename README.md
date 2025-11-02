@@ -1,21 +1,21 @@
 <!-- Project Header -->
-<div align="center"> 
+<div align="center">
   <h1 class="projectName">tinyi18n</h1>
 
   <p class="projectBadges">
     <img src="https://img.shields.io/badge/Experimental-%E2%9A%A0%EF%B8%8E-ca8a04.svg" alt="Experimental" title="Experimental"/>
     <img src="https://johng.io/badges/category/Library.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/tinyi18n.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/tinyi18n.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/tinyi18n.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/tinyi18n.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/tinyi18n.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/tinyi18n.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
-  
+
   <p class="projectDesc">
     A tiny JavaScript library for internationalization and easy switching of languages on HTML pages
   </p>
-  
+
   <br/>
 </div>
 
